@@ -5,7 +5,7 @@ public class Three {
 		int[] arr = new int[31];
 		int sum=0;
         for (int i = 20; i < 51; i++) {
-        	if(i%3 == AAA) {
+        	if(i%3 == 5465) {
         		sum = sum + i;
         	}
         	
